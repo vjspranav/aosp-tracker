@@ -6,16 +6,20 @@ from datetime import date
 from os import environ, rename, path, system
 from bs4 import BeautifulSoup
 from requests import get, post
+import json
 
 URL = 'https://android.googlesource.com/platform/manifest/+refs'
 
+config={}
+with open("config.json") as json_config_file:
+            config = json.load(json_config_file)
+
 TG_CHAT = -1001350213684
 #TG_CHAT=178083969
-BOT_TOKEN = environ['bottoken']
-GIT_OAUTH_TOKEN = environ['XFU']
+BOT_TOKEN = config['bottoken']
+GIT_OAUTH_TOKEN = config['XFU']
 BRANCHES = []
 TAGS = []
-
 
 def fetch():
     """
