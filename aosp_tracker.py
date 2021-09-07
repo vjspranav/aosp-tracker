@@ -7,9 +7,10 @@ from os import environ, rename, path, system
 from bs4 import BeautifulSoup
 from requests import get, post
 
-URL = 'https://android.googlesource.com/platform/frameworks/base/+refs'
+URL = 'https://android.googlesource.com/platform/manifest/+refs'
 
-TG_CHAT = "@aosptracker"
+TG_CHAT = -1001350213684
+#TG_CHAT=178083969
 BOT_TOKEN = environ['bottoken']
 GIT_OAUTH_TOKEN = environ['XFU']
 BRANCHES = []
@@ -94,10 +95,10 @@ def git_commit_push():
     git add - git commit - git push
 =   """
     today = str(date.today())
-    system("git add branches tags security_patch && git -c \"user.name=XiaomiFirmwareUpdater\" "
-           "-c \"user.email=xiaomifirmwareupdater@gmail.com\""
+    system("git add branches tags security_patch && git -c \"user.name=vjspranav\" "
+           "-c \"user.email=pranavasri@live.in\""
            " commit -m \"[skip ci] sync: {0}\" && "" \
-           ""git push -q https://{1}@github.com/androidtrackers/aosp-tracker.git HEAD:master"
+           ""git push -q https://{1}@github.com/vjspranav/aosp-tracker.git HEAD:master"
            .format(today, GIT_OAUTH_TOKEN))
 
 
