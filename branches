@@ -1109,6 +1109,7 @@ android-wear-9.0.0_r28
 android-wear-9.0.0_r29
 android-wear-9.0.0_r3
 android-wear-9.0.0_r30
+android-wear-9.0.0_r31
 android-wear-9.0.0_r4
 android-wear-9.0.0_r5
 android-wear-9.0.0_r6
@@ -1493,6 +1494,7 @@ platform-tools-30.0.5
 platform-tools-31.0.0
 platform-tools-31.0.1
 platform-tools-31.0.2
+platform-tools-31.0.3
 rust-toolchain
 sdk-release
 simpleperf-release
