@@ -1149,6 +1149,7 @@ android11-release
 android11-security-release
 android11-tests-dev
 android11-tests-release
+android12-dev
 androidx-1.0-dev
 androidx-activity-release
 androidx-annotation-annotation-experimental-release
