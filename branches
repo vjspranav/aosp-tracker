@@ -105,6 +105,8 @@ android-11.0.0_r5
 android-11.0.0_r7
 android-11.0.0_r8
 android-11.0.0_r9
+android-12.0.0_r1
+android-12.0.0_r2
 android-2.0.1_r1
 android-2.0_r1
 android-2.1_r1
@@ -625,6 +627,7 @@ android-cts-11.0_r2
 android-cts-11.0_r3
 android-cts-11.0_r4
 android-cts-11.0_r5
+android-cts-12.0_r1
 android-cts-2.2_r8
 android-cts-2.3_r10
 android-cts-2.3_r11
@@ -1044,6 +1047,7 @@ android-vts-11.0_r2
 android-vts-11.0_r3
 android-vts-11.0_r4
 android-vts-11.0_r5
+android-vts-12.0_r1
 android-vts-8.0_r1
 android-vts-8.0_r10
 android-vts-8.0_r11
