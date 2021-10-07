@@ -1181,6 +1181,7 @@ androidx-customview-release
 androidx-datastore-release
 androidx-drawerlayout-release
 androidx-emoji-release
+androidx-emoji2-release
 androidx-enterprise-release
 androidx-exifinterface-release
 androidx-fragment-release
@@ -1206,6 +1207,7 @@ androidx-preference-release
 androidx-print-release
 androidx-recyclerview-recyclerview-selection-release
 androidx-recyclerview-release
+androidx-resourceinspection-release
 androidx-room-release
 androidx-savedstate-release
 androidx-security-security-crypto-release
@@ -1222,6 +1224,7 @@ androidx-versionedparcelable-release
 androidx-viewpager2-release
 androidx-wear-release
 androidx-wear-tiles-release
+androidx-wear-watchface-release
 androidx-wear-wear-input-release
 androidx-wear-wear-ongoing-release
 androidx-wear-wear-phone-interactions-release
