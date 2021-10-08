@@ -1156,6 +1156,7 @@ android11-tests-release
 android12-dev
 android12-release
 android12-tests-dev
+android12-tests-release
 androidx-1.0-dev
 androidx-activity-release
 androidx-annotation-annotation-experimental-release
