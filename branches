@@ -110,6 +110,8 @@ android-12.0.0_r10
 android-12.0.0_r11
 android-12.0.0_r12
 android-12.0.0_r13
+android-12.0.0_r14
+android-12.0.0_r15
 android-12.0.0_r2
 android-12.0.0_r3
 android-12.0.0_r4
@@ -968,6 +970,7 @@ android-p-preview-5
 android-platform-11.0.0_r1
 android-platform-11.0.0_r10
 android-platform-11.0.0_r11
+android-platform-11.0.0_r12
 android-platform-11.0.0_r2
 android-platform-11.0.0_r3
 android-platform-11.0.0_r4
@@ -976,6 +979,7 @@ android-platform-11.0.0_r6
 android-platform-11.0.0_r7
 android-platform-11.0.0_r8
 android-platform-11.0.0_r9
+android-platform-12.0.0_r1
 android-q-preview-1
 android-q-preview-2.5
 android-q-preview-4
@@ -1189,6 +1193,7 @@ androidx-camerax-release
 androidx-car-app-release
 androidx-collection-release
 androidx-compose-integration-release
+androidx-compose-material3-release
 androidx-compose-release
 androidx-concurrent-release
 androidx-coordinatorlayout-release
@@ -1197,6 +1202,7 @@ androidx-core-core-role-release
 androidx-core-release
 androidx-customview-release
 androidx-datastore-release
+androidx-draganddrop-release
 androidx-drawerlayout-release
 androidx-emoji-release
 androidx-emoji2-release
@@ -1204,6 +1210,7 @@ androidx-enterprise-release
 androidx-exifinterface-release
 androidx-fragment-release
 androidx-g3-release
+androidx-glance-release
 androidx-hilt-release
 androidx-jetifier-release
 androidx-leanback-release
@@ -1248,6 +1255,7 @@ androidx-wear-wear-ongoing-release
 androidx-wear-wear-phone-interactions-release
 androidx-wear-wear-remote-interactions-release
 androidx-webkit-release
+androidx-window-release
 androidx-work-release
 angle-preview
 aosp-android-games-sdk
