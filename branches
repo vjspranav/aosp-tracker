@@ -120,6 +120,7 @@ android-12.0.0_r20
 android-12.0.0_r21
 android-12.0.0_r25
 android-12.0.0_r26
+android-12.0.0_r27
 android-12.0.0_r3
 android-12.0.0_r4
 android-12.0.0_r5
@@ -987,6 +988,7 @@ android-o-mr1-iot-release-smart-display-r3
 android-o-mr1-iot-release-smart-display-r30
 android-o-mr1-iot-release-smart-display-r39
 android-o-mr1-iot-release-smart-display-r4
+android-o-mr1-iot-release-smart-display-r40.1J
 android-o-mr1-iot-release-smart-display-r5
 android-o-mr1-iot-release-smart-display-r8
 android-o-mr1-iot-release-smart-display-r9
@@ -1006,6 +1008,7 @@ android-platform-11.0.0_r10
 android-platform-11.0.0_r11
 android-platform-11.0.0_r12
 android-platform-11.0.0_r13
+android-platform-11.0.0_r14
 android-platform-11.0.0_r2
 android-platform-11.0.0_r3
 android-platform-11.0.0_r4
@@ -1016,6 +1019,7 @@ android-platform-11.0.0_r8
 android-platform-11.0.0_r9
 android-platform-12.0.0_r1
 android-platform-12.0.0_r2
+android-platform-12.0.0_r3
 android-q-preview-1
 android-q-preview-2.5
 android-q-preview-4
@@ -1034,7 +1038,9 @@ android-s-beta-3
 android-s-beta-4
 android-s-beta-5
 android-s-preview-1
+android-s-v2-beta-2
 android-s-v2-preview-1
+android-s-v2-preview-2
 android-sdk-4.0.3-tools_r1
 android-sdk-4.0.3_r1
 android-sdk-4.4.2_r1
@@ -1223,6 +1229,7 @@ android12-dev
 android12-gsi
 android12-hostruntime-dev
 android12-platform-release
+android12-qpr1-release
 android12-release
 android12-tests-dev
 android12-tests-release
@@ -1274,6 +1281,7 @@ androidx-media-release
 androidx-media2-media2-widget-release
 androidx-media2-release
 androidx-mediarouter-release
+androidx-metrics-release
 androidx-navigation-release
 androidx-paging-legacy-release
 androidx-paging-release
@@ -1518,6 +1526,7 @@ ndk-r23b
 ndk-r24-beta1
 ndk-r24-beta2
 ndk-r24-release
+ndk-r25-release
 ndk-release-r16
 ndk-release-r17
 ndk-release-r18
@@ -1632,7 +1641,9 @@ sparse-7343076-L42700000889205866
 sparse-7438778-L58600000914114587
 sparse-7574552-L13800000950403573
 sparse-7680470-L84400000950949938
+sparse-7712238-L88600000952847010
 sparse-7930872-L35800000952176861
+sparse-8106953-L32600000952710780
 sparse_history
 studio-1.0-dev
 studio-1.0-release
@@ -1654,6 +1665,7 @@ studio-2.2-preview3
 studio-2.2.2
 studio-2.3
 studio-2020.3.1
+studio-2021.1.1
 studio-3.0
 studio-3.1.2
 studio-3.2.1
